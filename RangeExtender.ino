@@ -6,10 +6,10 @@
 #define HAVE_NETDUMP 0
 
 #ifndef STASSID
-#define STASSID "Your WIFI SSID" //(Your WIFI SSID That has to be repeated ) 
-#define STAPSK  "Your Wifi Passwd" // (Your Wifi Passwd)
-#define APSSID "Access Point SSID" //(Access Point or Hot Spot SSID)
-#define APPSK  "Access Point Passwd"  //(Access point or Hotspot Passwd)
+#define STASSID "Sagal Kaur" //(Your WIFI SSID That has to be repeated ) 
+#define STAPSK  "sagalkaur31@" // (Your Wifi Passwd)
+#define APSSID "Extender" //(Access Point or Hot Spot SSID)
+#define APPSK  "Backdoor@"  //(Access point or Hotspot Passwd)
 #endif
 
 #include <ESP8266WiFi.h>
